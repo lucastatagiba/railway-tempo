@@ -32,4 +32,4 @@ storage:
     wal:
       path: /var/tempo/wal
     local:
-      path: /var/tempo/blocks
+      path: /var/tempo/traces
